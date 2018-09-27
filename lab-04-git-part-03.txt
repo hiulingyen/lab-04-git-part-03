@@ -37,7 +37,7 @@ Desktop		Downloads	Movies		Pictures
 
 Write the command that you used to do this, and all of the output.
 ----------
-
+ls
 
 ==========
 5. Stop (kill) the process that's called nano "temp.txt" by using the process id shown in the output of your previous command (first number after user name).
@@ -68,7 +68,7 @@ Quit and save when you're done.
 
 What command did you use to do this?
 ----------
-<control>X Y <ENTER>
+<control>+X Y <ENTER>
 
 ==========
 9. Change the permissions (modify) on hello.sh so that the *user* (u) can *execute* (x) it: 
