@@ -37,7 +37,7 @@ Desktop		Downloads	Movies		Pictures
 
 Write the command that you used to do this, and all of the output.
 ----------
-ls
+ls -alt
 
 ==========
 5. Stop (kill) the process that's called nano "temp.txt" by using the process id shown in the output of your previous command (first number after user name).
